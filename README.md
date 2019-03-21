@@ -1,1 +1,1 @@
-# Syntax highlight for the madeup language DIY
+# Vim syntax highlight for the language DIY
