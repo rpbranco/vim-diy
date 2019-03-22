@@ -6,7 +6,7 @@ if exists("b:current_syntax")
   finish
 endif
 
-syn keyword diyType void integer string number const 
+syn keyword diyType void integer string number const real 
 syn keyword diyStatement break continue public
 syn keyword diyConditional if then else upto downto 
 syn keyword diyRepeat while do for in step
